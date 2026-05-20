@@ -2,7 +2,7 @@ header:
     schema-version: 2.0.0
     last-updated: 2026-05-06
     last-reviewed: 2026-05-06
-    url: https://github.com/radius-project/radius/blob/main/.github/security-insights.yml
+    url: https://github.com/radius-project/.github
 project:
     name: Radius
     homepage: https://radapp.io
